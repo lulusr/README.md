@@ -2,7 +2,7 @@
 ### Day1
 Through reading the reading list and briefing, I have a new understanding of creative-computing.
 #### What is Creative Computing?
-Italicized text is the _”Creative Computing is an exciting mix of computing and creative practice set in the context.Including code, build apps, 
+”Creative Computing is an exciting mix of computing and creative practice set in the context.Including code, build apps, 
 craft digital experiences, explore machine intelligence and more. People will acquire a contemporary set of applied computing skills covering the dominant 
 coding languages and workflows that support innovation in the digital technology sector and creative practice. Building on these skills, 
 and through creative practice, people will also develop their ability to innovate. “_
